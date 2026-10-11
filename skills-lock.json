@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "cal-automation": {
+      "source": "luokai0/ai-agent-skills-by-luo-kai",
+      "sourceType": "github",
+      "skillPath": "ai-agent-skills/18-ai-agents-and-automation (by Luo Kai)/04-workspace-integrations/cal-automation/SKILL.md",
+      "computedHash": "de463ce38d8602a1165458e7b5fa90ee8d3ecdeafe7704a33ebbb6ec1d9f0a22"
+    }
+  }
+}
